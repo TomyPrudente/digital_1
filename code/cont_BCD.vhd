@@ -1,7 +1,7 @@
 library IEEE;
 use IEEE.std_logic_1164.all;
 use work.util.all;
--- lala
+
 entity cont_BCD is
 	port(
 		clk: in std_logic;
