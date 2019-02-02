@@ -1,3 +1,3 @@
 # digital_1
-Final de Electronica Digital 1
-Voltimetro con FPGA
+Final de Electrónica Digital 1
+Voltímetro con FPGA
