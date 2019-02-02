@@ -4,7 +4,7 @@ use work.util.all;
 
 entity cont_BCD_4_tb is
 end;
-
+--misa es puto, pero me explica
 architecture cont_BCD_4_tb_arq of cont_BCD_4_tb is
 	signal clk_tb: std_logic := '0';
 	signal arst_tb: std_logic := '1';
